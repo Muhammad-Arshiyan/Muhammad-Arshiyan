@@ -1,4 +1,4 @@
-<h2 align="center">![Image](https://github.com/user-attachments/assets/656c0011-bf26-4169-b9cc-198fabff2d14")</h2>
+![Image](https://github.com/user-attachments/assets/656c0011-bf26-4169-b9cc-198fabff2d14")
 
 # <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
