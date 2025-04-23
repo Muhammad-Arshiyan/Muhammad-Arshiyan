@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer from Pakistan,  who
 
 - 🔭 I’m currently studying on Computer science
 - 🌱 I’m currently learning Bootstrap
-- 💬 Ask me about: [Tech you're good at]
+- 💬 Ask me about HTML, CSS, JAVASCRIPT, Bootstrap
 
 
 ## 🛠️ My Skills
