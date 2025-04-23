@@ -1,4 +1,4 @@
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="center" width="400" src="file:///C:/Users/hp/Desktop/banner.jpg">
 
 # <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
