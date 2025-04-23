@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Arshiyan
+# <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
 Welcome to my GitHub profile! I'm a passionate Your Profession — e.g., Web Developer, Computer Science who loves building things with code.
 
