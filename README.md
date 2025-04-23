@@ -1,4 +1,3 @@
-<img align="center" src="file:///C:/Users/hp/Desktop/banner.jpg" width="580" height="146">
 
 # <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
