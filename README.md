@@ -1,24 +1,20 @@
-# Hi there 👋 I'm [Arshiyan]
+# Hi there 👋 I'm Arshiyan
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession — e.g., Web Developer, Computer Science] who loves building things with code.
+Welcome to my GitHub profile! I'm a passionate Your Profession — e.g., Web Developer, Computer Science who loves building things with code.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently studying on: [Computer science]
-- 🌱 I’m currently learning: [Bootstrap]
+- 🔭 I’m currently studying on Computer science
+- 🌱 I’m currently learning Bootstrap
 - 💬 Ask me about: [Tech you're good at]
-- 📫 How to reach me: [Email or Social Media]
-- ⚡ Fun fact: [Cool fun fact about you]
+
 
 ## 🛠️ My Skills
 
 ![Languages](https://skillicons.dev/icons?i=html,css,js,bootstrap,git)
 
-## 📊 GitHub Stats
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ## 📫 Let's Connect
 
