@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Your Profession — e.g., Web Dev
 
 ## 🛠️ My Skills
 
-<img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
 
 ![Languages](https://skillicons.dev/icons?i=html,css,js,bootstrap,git)
 
