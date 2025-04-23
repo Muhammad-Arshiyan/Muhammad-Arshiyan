@@ -1,4 +1,4 @@
-<img src="https://tse2.mm.bing.net/th?id=OIP._3K9e0eBDfdswsmtDGUOTgHaCY&pid=Api&P=0&h=220">
+<img src="file:///C:/Users/hp/Desktop/banner.jpg">
 
 # <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
