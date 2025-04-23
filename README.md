@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/hp/Desktop/banner.jpg" alt="banner" width="400">
+<img align="center" alt="banner" width="400" src="file:///C:/Users/hp/Desktop/banner.jpg">
 
 # <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
