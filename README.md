@@ -1,18 +1,18 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm [Arshiyan]
 
 Welcome to my GitHub profile! I'm a passionate [Your Profession — e.g., Web Developer, Computer Science] who loves building things with code.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [Your Current Project or Job]
-- 🌱 I’m currently learning: [Tech you're learning]
+- 🔭 I’m currently studying on: [Computer science]
+- 🌱 I’m currently learning: [Bootstrap]
 - 💬 Ask me about: [Tech you're good at]
 - 📫 How to reach me: [Email or Social Media]
 - ⚡ Fun fact: [Cool fun fact about you]
 
 ## 🛠️ Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=js,ts,bootstrap,nodejs,python,java,html,css,git,linux)
+![Languages](https://skillicons.dev/icons?i=html,css,js,bootstrap,git)
 
 ## 📊 GitHub Stats
 
