@@ -1,4 +1,6 @@
-![logo align="center"](![Image](https://github.com/user-attachments/assets/1f0e306b-04a6-4839-b87f-edfd1f30cab7)
+<img src="("![image](https://github.com/user-attachments/assets/528d9725-67d8-44a5-8cba-e16a460618fd)
+")
+
 
 # <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
