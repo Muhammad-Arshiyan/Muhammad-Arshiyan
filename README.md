@@ -1,4 +1,4 @@
-<img align="center" width="400" src="file:///C:/Users/hp/Desktop/banner.jpg">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///C:/Users/hp/Desktop/banner.jpg" width="580" height="146">
 
 # <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
