@@ -1,6 +1,6 @@
 # Hi there 👋 I'm [Your Name]
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession — e.g., Software Developer, Data Scientist] who loves building things with code.
+Welcome to my GitHub profile! I'm a passionate [Your Profession — e.g., Web Developer, Computer Science] who loves building things with code.
 
 ## 🚀 About Me
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession — e.g., Softwa
 
 ## 🛠️ Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,linux)
+![Languages](https://skillicons.dev/icons?i=js,ts,bootstrap,nodejs,python,java,html,css,git,linux)
 
 ## 📊 GitHub Stats
 
