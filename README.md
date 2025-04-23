@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently studying on Computer science
-- 🌱 I’m currently learning Bootstrap
-- 💬 Ask me about HTML, CSS, JAVASCRIPT, Bootstrap
+- 🔭 I’m currently studying on **Computer science**
+- 🌱 I’m currently learning **Bootstrap**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, Bootstrap**
 
 
 ## 🛠️ My Skills
