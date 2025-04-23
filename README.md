@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/hp/Desktop/WhatsApp%20Image%202025-04-23%20at%2023.09.31_558d8a11.jpg" alt="banner" width="400">
+<img src="file:///C:/Users/hp/Desktop/banner.jpg" alt="banner" width="400">
 
 # <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
