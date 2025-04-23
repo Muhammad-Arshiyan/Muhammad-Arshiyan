@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession — e.g., Web De
 - 📫 How to reach me: [Email or Social Media]
 - ⚡ Fun fact: [Cool fun fact about you]
 
-## 🛠️ Tech Stack
+## 🛠️ My Skills
 
 ![Languages](https://skillicons.dev/icons?i=html,css,js,bootstrap,git)
 
