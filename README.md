@@ -1,6 +1,6 @@
 # <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
-<h3>Welcome to my GitHub profile! I'm a passionate Web Developer from Pakistan,  who loves building things with code.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer from Pakistan,  who loves building things with code.</h3>
 
 ## 🚀 About Me
 
