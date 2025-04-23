@@ -1,4 +1,5 @@
-![logo](![Image](https://github.com/user-attachments/assets/1f0e306b-04a6-4839-b87f-edfd1f30cab7))
+![logo align="center"](![Image](https://github.com/user-attachments/assets/1f0e306b-04a6-4839-b87f-edfd1f30cab7)
+
 # <h1 align="center">Hi there 👋 I'm Arshiyan</h1>
 
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer from Pakistan,  who loves building things with code.</h3>
