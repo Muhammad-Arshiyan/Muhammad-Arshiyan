@@ -19,8 +19,8 @@
 ## Most Used Languages
 <p align="center">
     <img src="https://img.shields.io/badge/HTML-70.98%25-red" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS-42.53%25-purple" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-44.49%25-yellow" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/CSS-42.40%25-purple" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-30.49%25-yellow" alt="JavaScript" />
   
 </p>
 
