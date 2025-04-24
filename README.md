@@ -21,8 +21,9 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-arshiyan-9866b5321/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+<a href="">
+(https://skillicons.dev/icons?i=linkdin)
+</a>
 
 ---
 
