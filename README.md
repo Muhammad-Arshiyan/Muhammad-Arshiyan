@@ -15,7 +15,7 @@
 
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,bootstrap,git)
+![Languages](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github)
 
 
 
