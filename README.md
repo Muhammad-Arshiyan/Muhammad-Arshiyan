@@ -17,12 +17,9 @@
 ![Languages](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github)
 
 ## Most Used Languages
-<div align="center" bgcolor="black">
-    <img src="https://img.shields.io/badge/HTML-70.98%25-red" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS-42.40%25-blue" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-30.49%25-yellow" alt="JavaScript" />
-  
-</div>
+<div align="center">
+    <img width="400" src="https://github.com/user-attachments/assets/ae72f79c-b5ca-4223-9491-15933fd9eae3">
+    </div>
 
 ## 📫 Let's Connect
 
