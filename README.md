@@ -18,7 +18,7 @@
 
 ## Most Used Languages
 <div align="center">
-		<img src="https://github.com/user-attachments/assets/a35144ef-d029-4e2b-820d-aebace5f2c48" alt="">
+		<img src="https://github.com/user-attachments/assets/b4ad0764-ff29-4a67-9ce3-b582e4d29cd8" alt="">
 	</div>
 
 ## 📫 Let's Connect
