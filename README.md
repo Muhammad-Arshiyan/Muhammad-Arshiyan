@@ -17,8 +17,8 @@
 ![Languages](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github)
 
 ## Most Used Languages
-<div style="border: 1px solid gray; width: 400px; border-radius: 10px;">
-		<img src="https://github.com/user-attachments/assets/0a50d490-b3c4-4fb6-a666-61ef1d05f1c3" alt="">
+<div align="center">
+		<img src="https://github.com/user-attachments/assets/a35144ef-d029-4e2b-820d-aebace5f2c48" alt="">
 	</div>
 
 ## 📫 Let's Connect
