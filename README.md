@@ -14,7 +14,7 @@
 
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,reactjs,bootstrap,git,github)
+![Languages](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github)
 
 ## Most Used Languages
 <div align="center">
